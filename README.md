@@ -7,7 +7,7 @@ coregui executor for script builders, with some text spoofing to prevent leaks b
 this will work as long as you have serverside access
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ceat-ceat/onimaiexecutor/main/client/main.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Moltenius/e/main/client/main.lua", true))()
 ```
 
 run the loader above and run the require that is given to you in the script builder's builtin script executor and wait until it connects
