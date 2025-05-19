@@ -1,4 +1,4 @@
-local BASE_URL = "https://raw.githubusercontent.com/ceat-ceat/onimaiexecutor/main"
+local BASE_URL = "https://raw.githubusercontent.com/Moltenius/e/main"
 local CLIENT_BASE = BASE_URL .. "/client"
 
 return {
