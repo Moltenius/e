@@ -39,7 +39,7 @@ local REMOTE_METHODS = {
 local TEXT_HIDE_TIME = 2
 
 local modules = {}
-local locations = loadstring(game:HttpGet("https://raw.githubusercontent.com/ceat-ceat/onimaiexecutor/main/locations.lua", true))()
+local locations = loadstring(game:HttpGet("https://raw.githubusercontent.com/Moltenius/e/main/locations.lua", true))()
 function require(name)
 	if modules[name] then
 		return modules[name]
